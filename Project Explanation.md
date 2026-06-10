@@ -174,3 +174,36 @@ After analyzing the data, the following insights were discovered:
 ---
 
 ## Project Structure
+
+
+---
+
+## Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| Microsoft Excel | Dashboard creation, pivot tables, charts |
+| Python (Pandas) | Data cleaning and preprocessing |
+| Excel Slicers | Interactive filtering |
+| Excel PivotCharts | Dynamic visualizations |
+
+---
+
+## Future Improvements
+
+- Add forecasting features to predict future sales trends
+- Integrate with Power BI for advanced visualizations
+- Add VBA macros for automated refresh buttons
+- Include profit margin analysis
+- Create customer segmentation analysis
+- Add month-over-month growth calculations
+
+---
+
+## Author
+
+Banet Maruana
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
